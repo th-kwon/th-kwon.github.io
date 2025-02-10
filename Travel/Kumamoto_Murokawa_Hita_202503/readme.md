@@ -1,4 +1,3 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 ## 쿠마모토 -> 쿠로카와온천 -> 히타 -> 쿠마모토 여행일정
 
 ![image](https://github.com/user-attachments/assets/634cc6ad-26fc-4812-ae52-e4ed5ca06316)
